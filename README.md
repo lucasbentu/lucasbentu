@@ -3,7 +3,7 @@
 > - :computer: I'm a technology lover, always in search of knowledge!
 > - :house_with_garden: I’m from Brazil.
 > - :books: I’m currently learning everything.
-> - :outbox_tray: 2021 Goals: Develop myself and learn more than last year.
+> - :outbox_tray: 2023 Goals: Develop myself and learn more than last year.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbentu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![github](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
